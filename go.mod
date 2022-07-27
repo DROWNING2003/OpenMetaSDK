@@ -1,4 +1,4 @@
-module GoForAvataAPIDemo
+module github.com/DROWNING2003/OpenMetaSDK
 
 go 1.18
 
