@@ -1,8 +1,8 @@
 package service
 
 import (
-	"GoForAvataAPIDemo/models/dto"
-	"GoForAvataAPIDemo/models/req"
+	"github.com/DROWNING2003/OpenMetaSDK/models/dto"
+	"github.com/DROWNING2003/OpenMetaSDK/models/req"
 	"encoding/json"
 	"errors"
 	"github.com/sirupsen/logrus"

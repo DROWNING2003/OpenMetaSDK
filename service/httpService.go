@@ -1,7 +1,7 @@
 package service
 
 import (
-	"GoForAvataAPIDemo/utils"
+	"github.com/DROWNING2003/OpenMetaSDK/utils"
 	"bytes"
 	"fmt"
 	"github.com/spf13/viper"

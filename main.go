@@ -1,10 +1,10 @@
 package main
 
 import (
-	"GoForAvataAPIDemo/config"
-	"GoForAvataAPIDemo/models/req"
-	"GoForAvataAPIDemo/service"
-	"GoForAvataAPIDemo/utils"
+	"github.com/DROWNING2003/OpenMetaSDK/config"
+	"github.com/DROWNING2003/OpenMetaSDK/models/req"
+	"github.com/DROWNING2003/OpenMetaSDK/service"
+	"github.com/DROWNING2003/OpenMetaSDK/utils"
 	"encoding/json"
 	"fmt"
 

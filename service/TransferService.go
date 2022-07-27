@@ -1,7 +1,7 @@
 package service
 
 import (
-	"GoForAvataAPIDemo/models/dto"
+	"github.com/DROWNING2003/OpenMetaSDK/models/dto"
 	"encoding/json"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"

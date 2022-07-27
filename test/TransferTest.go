@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoForAvataAPIDemo/config"
-	"GoForAvataAPIDemo/service"
+	"github.com/DROWNING2003/OpenMetaSDK/config"
+	"github.com/DROWNING2003/OpenMetaSDK/service"
 	"encoding/json"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/pflag"
